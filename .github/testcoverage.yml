@@ -12,7 +12,6 @@ threshold:
   total: 0
 
 # Holds regexp rules which will exclude matched files or packages from coverage statistics.
-# Want to see if this works
 exclude:
   paths:
     - examples/.*
